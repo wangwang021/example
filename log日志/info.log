@@ -1,0 +1,9 @@
+2024-01-10 14:42:29.506 | DEBUG    | __main__:<module>:11 - Hello, World!
+2024-01-10 14:42:54.999 | INFO     | __main__:<module>:11 - Hello, World!
+2024-01-10 14:42:55.002 | WARNING  | __main__:<module>:12 - Hello, World!
+2024-01-10 14:42:55.006 | ERROR    | __main__:<module>:13 - Hello, World!
+2024-01-10 14:42:55.010 | DEBUG    | __main__:<module>:14 - Hello, World!
+2024-01-10 14:45:28.627 | INFO     | __main__:<module>:11 - Hello, World!
+2024-01-10 14:45:28.631 | WARNING  | __main__:<module>:12 - Hello, World!
+2024-01-10 14:45:28.636 | ERROR    | __main__:<module>:13 - Hello, World!
+2024-01-10 14:45:28.640 | DEBUG    | __main__:<module>:14 - Hello, World!
